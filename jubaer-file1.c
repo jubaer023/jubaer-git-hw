@@ -1,3 +1,4 @@
 void name(){
- printf("jubaer");
+ int a = 10;
+ printf("Jubaer Ahmad");
 } 
